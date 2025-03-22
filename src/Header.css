@@ -1,0 +1,21 @@
+.header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 1.5em 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }

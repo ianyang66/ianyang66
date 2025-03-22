@@ -1,0 +1,15 @@
+section {
+    padding: 2em;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 1em;
+    color: #333;
+  }
+  
+  p {
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
